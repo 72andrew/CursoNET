@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\bin\Debug\net6.0\Clase9.exe
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\bin\Debug\net6.0\Clase9.deps.json
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\bin\Debug\net6.0\Clase9.runtimeconfig.json
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\bin\Debug\net6.0\Clase9.dll
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\bin\Debug\net6.0\Clase9.pdb
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.dll
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\refint\Clase9.dll
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.pdb
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\Clase9.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoNet\Clase9\Clase9\obj\Debug\net6.0\ref\Clase9.dll

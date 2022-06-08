@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\bin\Debug\net6.0\Clase9Bingo.exe
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\bin\Debug\net6.0\Clase9Bingo.deps.json
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\bin\Debug\net6.0\Clase9Bingo.runtimeconfig.json
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\bin\Debug\net6.0\Clase9Bingo.dll
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\bin\Debug\net6.0\Clase9Bingo.pdb
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.dll
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\refint\Clase9Bingo.dll
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.pdb
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\Clase9Bingo.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoNet\Clase9Bingo\Clase9Bingo\obj\Debug\net6.0\ref\Clase9Bingo.dll
